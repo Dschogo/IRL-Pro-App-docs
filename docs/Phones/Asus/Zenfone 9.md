@@ -4,6 +4,7 @@
     - natural colors {{ good }}
     - good stabilized (build in gimbal) {{ good }}
     - no overheating while charging/LTE/WIFI and ofc streaming {{ good }}
+    - Audio Jack {{ good }}
     - only 1080@30fps {{ mid }}
 
 ## Specifications
@@ -16,16 +17,12 @@
 !!! info "Video"
     8K@24fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS, HDR
 
-    "Can't test right now, but think only 1080@30 worked"
-
 ### Selfie Camera
 
 - 12 MP, f/2.5, 28mm (standard), 1/2.93", 1.22µm, Dual Pixel PDAF
 
 !!! info "Video"
     4K@30fps, 1080p@30/60fps
-
-    "Can't test right now, but think only 1080@30 worked"
 
 ### Connectivity
 

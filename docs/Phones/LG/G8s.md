@@ -5,6 +5,7 @@
     - fairly good stabilized {{ good }}
     - no overheating while charging/LTE/WIFI and ofc streaming {{ good }}
     - UVC works {{ good }}
+    - Audio Jack {{ good }}
     - low light is average {{ mid }}
     - only 1080@30fps {{ mid }}
 
