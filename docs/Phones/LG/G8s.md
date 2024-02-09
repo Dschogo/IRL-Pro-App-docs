@@ -1,4 +1,11 @@
-# G8s - LMG810EAW
+---
+tags:
+    - good 30fps
+---
+
+# G8s - 2019
+
+LMG810EAW
 
 !!! success "Works great"
     - natural colors {{ good }}

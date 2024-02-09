@@ -1,4 +1,8 @@
-# Zenfone 9
+---
+tags:
+    - good 30fps
+---
+# Zenfone 9 - 2022
 
 !!! success "Works great"
     - natural colors {{ good }}

@@ -102,7 +102,9 @@ plugins:
           enable_creation_date: true
           type: timeago
           enabled: !ENV [CI, false]
-
+    - tags:
+        enabled: true
+        tags_file: Phones/index.md
     - glightbox:
           touchNavigation: true
           loop: false
