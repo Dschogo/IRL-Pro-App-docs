@@ -37,3 +37,8 @@ details[open] > *:not(summary) {
 .mid {
     color: #ffc107;
 }
+
+
+.md-header__topic > .md-ellipsis > svg {
+    display: none;
+}
