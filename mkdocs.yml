@@ -1,7 +1,7 @@
-site_name: IRL Pro App
-repo_name: dschogo/IRL_Pro_App
-site_url: https://dschogo.github.io/IRL_Pro_App/
-repo_url: https://github.com/Dschogo/IRL_Pro_App
+site_name: IRL Pro App docs
+repo_name: dschogo/IRL-Pro-App-docs
+site_url: https://dschogo.github.io/IRL-Pro-App-docs/
+repo_url: https://github.com/Dschogo/IRL-Pro-App-docs
 edit_uri: edit/main/docs/
 site_author: Dschogo
 site_description: Docs for IRL Pro App
@@ -88,7 +88,7 @@ plugins:
           cards: true
           enabled: !ENV [CI, false]
     - git-committers:
-          repository: dschogo/IRL_Pro_App
+          repository: dschogo/IRL-Pro-App-docs
           branch: main
           enabled: !ENV [CI, false]
     - search
