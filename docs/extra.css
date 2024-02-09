@@ -1,0 +1,39 @@
+.md-content,
+.md-content__inner {
+    /* fade in animation */
+    animation: fadeIn 0.35s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes details-show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+details[open] > *:not(summary) {
+    animation: details-show 150ms ease-in-out;
+}
+
+.good {
+    color: #4caf50;
+}
+
+.bad {
+    color: #f44336;
+}
+
+.mid {
+    color: #ffc107;
+}

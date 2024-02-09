@@ -1,0 +1,127 @@
+site_name: IRL Pro App
+repo_name: dschogo/IRL_Pro_App
+site_url: https://dschogo.github.io/IRL_Pro_App/
+repo_url: https://github.com/Dschogo/IRL_Pro_App
+edit_uri: edit/main/docs/
+site_author: Dschogo
+site_description: Docs for IRL Pro App
+
+theme:
+    name: material
+    features:
+        - toc.follow
+        - content.code.annotate
+        # - toc.integrate
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.instant.prefetch
+        - navigation.tabs
+        - navigation.indexes
+        - navigation.tracking
+        - navigation.top
+        #   - navigation.expand
+        #   - navigation.sections
+        - navigation.footer
+        - navigation.path
+        - search.share
+        - search.highlight
+        - search.suggest
+        - content.action.edit
+    icon:
+        logo: material/camera-enhance
+    palette:
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+              icon: material/lightbulb
+              name: Switch to dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: purple
+          toggle:
+              icon: material/lightbulb-outline
+              name: Switch to light mode
+    font:
+        text: Roboto
+        code: Roboto Mono
+    custom_dir: overrides
+    language: en
+
+markdown_extensions:
+    - abbr
+    - admonition
+    - attr_list
+    - def_list
+    - footnotes
+    - md_in_html
+    - toc:
+          permalink: "#"
+          slugify: !!python/object/apply:pymdownx.slugs.slugify
+              kwds:
+                  case: none
+    - pymdownx.arithmatex:
+          generic: true
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.snippets
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.tilde
+    - tables
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+    - social:
+          cards: true
+          enabled: !ENV [CI, false]
+    - git-committers:
+          repository: dschogo/IRL_Pro_App
+          branch: main
+          enabled: !ENV [CI, false]
+    - search
+    - awesome-pages:
+          filename: .pages.yml
+    #     - pagenav-generator
+    - git-revision-date-localized:
+          enable_creation_date: true
+          type: timeago
+          enabled: !ENV [CI, false]
+
+    - glightbox:
+          touchNavigation: true
+          loop: false
+          effect: zoom
+          width: 100%
+          height: 100%
+          zoomable: true
+          draggable: false
+          auto_caption: false
+          caption_position: bottom
+    - minify:
+          minify_html: !ENV [CI, false]
+#     - gen-files:
+#           scripts:
+#               - gen_pages.py
+
+extra_css:
+    - extra.css
+
+extra:
+    status:
+        new: Recently added
+        deprecated: Deprecated
+        
+copyright: Copyright &copy; 2024 Dschogo
