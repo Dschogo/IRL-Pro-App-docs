@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://dschogo.github.io/IRL-Pro-App-docs/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dschogo.github.io/IRL-Pro-App-docs/Guides/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
@@ -22,16 +27,6 @@
     </url>
     <url>
          <loc>https://dschogo.github.io/IRL-Pro-App-docs/Phones/LG/G8s/</loc>
-         <lastmod>2024-02-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://dschogo.github.io/IRL-Pro-App-docs/Welcome/</loc>
-         <lastmod>2024-02-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://dschogo.github.io/IRL-Pro-App-docs/Welcome/more_text/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
