@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dschogo.github.io/IRL-Pro-App-docs/FAQ/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dschogo.github.io/IRL-Pro-App-docs/Guides/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
@@ -182,6 +187,11 @@
     </url>
     <url>
          <loc>https://dschogo.github.io/IRL-Pro-App-docs/Changelog/category/beta/page/2/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/IRL-Pro-App-docs/Phones/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
