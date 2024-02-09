@@ -7,7 +7,7 @@
     - UVC works {{ good }}
     - Audio Jack {{ good }}
     - low light is average {{ mid }}
-    - only 1080@30fps {{ mid }}
+    - only 30fps {{ mid }} (but up to 3840x2160)
 
 ## Specifications
 
@@ -18,7 +18,7 @@
 - 13 MP, f/2.4, 14mm (ultrawide), 1.0µm
 
 !!! info "Video"
-    4K@30/60fps, 1080p@30/60fps, 1080p@240fps, HDR, 24-bit/192kHz stereo sound rec.
+    4K@30/60fps, 1080p@30/60fps, 1080p@240fps, HDR
 
 ### Selfie Camera
 
