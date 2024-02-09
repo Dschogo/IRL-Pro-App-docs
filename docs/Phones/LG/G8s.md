@@ -1,7 +1,7 @@
-# G8s - LMG810EAW
+# G8s - LMG810EAW :fontawesome-solid-caret-up:{ .good }
 
 !!! success "Works great"
-    - natural colors :fontawesome-solid-caret-up:{ .good }
+    - natural colors  
     - fairly good stabilized :fontawesome-solid-caret-up:{ .good }
     - no overheating while charging/LTE/WIFI and ofc streaming :fontawesome-solid-caret-up:{ .good }
     - low light is average :fontawesome-solid-caret-right:{ .mid }
