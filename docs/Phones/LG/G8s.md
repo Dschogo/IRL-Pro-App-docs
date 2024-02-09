@@ -1,10 +1,10 @@
-# G8s - LMG810EAW :fontawesome-solid-caret-up:{ .good }
+# G8s - LMG810EAW
 
 !!! success "Works great"
-    - natural colors  
-    - fairly good stabilized :fontawesome-solid-caret-up:{ .good }
-    - no overheating while charging/LTE/WIFI and ofc streaming :fontawesome-solid-caret-up:{ .good }
-    - low light is average :fontawesome-solid-caret-right:{ .mid }
+    - natural colors {{ good }}
+    - fairly good stabilized {{ good }}
+    - no overheating while charging/LTE/WIFI and ofc streaming {{ good }}
+    - low light is average {{ mid }}
 
 ## Specifications
 
@@ -14,7 +14,7 @@
 - 12 MP, f/2.6, 49mm (telephoto), 1.0µm, PDAF, 2x optical zoom
 - 13 MP, f/2.4, 14mm (ultrawide), 1.0µm
 
-!!! info
+!!! info "Video"
     4K@30/60fps, 1080p@30/60fps, 1080p@240fps, HDR, 24-bit/192kHz stereo sound rec.
 
 ### Selfie Camera
@@ -22,7 +22,7 @@
 - 8 MP, f/1.9, 26mm (wide), 1/4", 1.12µm, AF
 - TOF 3D, f/1.4, (depth sensor)
 
-!!! info
+!!! info "Video"
     1080p@60fps
 
 ### Connectivity

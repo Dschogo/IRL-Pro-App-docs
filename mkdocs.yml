@@ -115,13 +115,17 @@ plugins:
 #     - gen-files:
 #           scripts:
 #               - gen_pages.py
+    - macros
 
 extra_css:
     - extra.css
 
 extra:
-    status:
-        new: Recently added
-        deprecated: Deprecated
+      status:
+            new: Recently added
+            deprecated: Deprecated
+      good: ":fontawesome-solid-caret-up:{ .good }"
+      mid: ":fontawesome-solid-caret-right:{ .mid }"
+      bad: ":fontawesome-solid-caret-down:{ .bad }"
         
 copyright: Copyright &copy; 2024 Dschogo
