@@ -30,11 +30,14 @@ hide:
 <div class="center" markdown="1">
 # Community driven IRL Pro App Knowledgebase
 Find out which phone works best with IRL Pro App
-Tips and Guides
 
 [:material-arrow-right: Best Phones](./Phones/index.md){: .gb-button style="margin-top: 15px;" }
 
 [:material-arrow-right: Guides](./Guides/index.md){: .gb-button style="margin-top: 15px;" }
 
 [:material-arrow-right: FAQ](./FAQ/index.md){: .gb-button style="margin-top: 15px;" }
+
+# Contribute
+
+[:material-arrow-right: Contribute](./FAQ/index.md#contributing){: .gb-button style="margin-top: 15px;" }
 </div>
